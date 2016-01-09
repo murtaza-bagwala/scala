@@ -1,0 +1,2 @@
+# scala
+First scala project
